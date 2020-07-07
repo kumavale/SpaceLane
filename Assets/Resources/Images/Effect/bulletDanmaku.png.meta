@@ -1,0 +1,1010 @@
+fileFormatVersion: 2
+guid: 2f3b0cdcdb1ebf74391594eb139ddf4c
+timeCreated: 1514276062
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bulletDanmaku_0
+    21300002: bulletDanmaku_1
+    21300004: bulletDanmaku_2
+    21300006: bulletDanmaku_3
+    21300008: bulletDanmaku_4
+    21300010: bulletDanmaku_5
+    21300012: bulletDanmaku_6
+    21300014: bulletDanmaku_7
+    21300016: bulletDanmaku_8
+    21300018: bulletDanmaku_9
+    21300020: bulletDanmaku_10
+    21300022: bulletDanmaku_11
+    21300024: bulletDanmaku_12
+    21300026: bulletDanmaku_13
+    21300028: bulletDanmaku_14
+    21300030: bulletDanmaku_15
+    21300032: bulletDanmaku_16
+    21300034: bulletDanmaku_17
+    21300036: bulletDanmaku_18
+    21300038: bulletDanmaku_19
+    21300040: bulletDanmaku_20
+    21300042: bulletDanmaku_21
+    21300044: bulletDanmaku_22
+    21300046: bulletDanmaku_23
+    21300048: bulletDanmaku_24
+    21300050: bulletDanmaku_25
+    21300052: bulletDanmaku_26
+    21300054: bulletDanmaku_27
+    21300056: bulletDanmaku_28
+    21300058: bulletDanmaku_29
+    21300060: bulletDanmaku_30
+    21300062: bulletDanmaku_31
+    21300064: bulletDanmaku_32
+    21300066: bulletDanmaku_33
+    21300068: bulletDanmaku_34
+    21300070: bulletDanmaku_35
+    21300072: bulletDanmaku_36
+    21300074: bulletDanmaku_37
+    21300076: bulletDanmaku_38
+    21300078: bulletDanmaku_39
+    21300080: bulletDanmaku_40
+    21300082: bulletDanmaku_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bulletDanmaku_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 209
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 227
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 195
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 195
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 224
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 192
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 160
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 128
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 227
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 195
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 35
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_30
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 227
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 195
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 227
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 211
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 195
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 168
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletDanmaku_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 132
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -54, y: -121}
+      - {x: -55, y: -123}
+      - {x: -54, y: -126}
+      - {x: -50, y: -127}
+      - {x: -46, y: -127}
+      - {x: -41, y: -124}
+      - {x: -42, y: -121}
+    - - {x: 6, y: -97}
+      - {x: 1, y: -101}
+      - {x: 1, y: -124}
+      - {x: 8, y: -127}
+      - {x: 29, y: -127}
+      - {x: 31, y: -124}
+      - {x: 31, y: -104}
+      - {x: 27, y: -97}
+    - - {x: -61, y: -119}
+      - {x: -59, y: -119}
+      - {x: -57, y: -118}
+      - {x: -57, y: -105}
+      - {x: -62, y: -105}
+      - {x: -63, y: -107}
+      - {x: -63, y: -114}
+    - - {x: -34, y: -119}
+      - {x: -33, y: -117}
+      - {x: -33, y: -110}
+      - {x: -35, y: -105}
+      - {x: -37, y: -105}
+      - {x: -39, y: -106}
+      - {x: -39, y: -119}
+    - - {x: -46, y: -97}
+      - {x: -50, y: -97}
+      - {x: -55, y: -100}
+      - {x: -54, y: -103}
+      - {x: -42, y: -103}
+      - {x: -41, y: -101}
+      - {x: -42, y: -98}
+    - - {x: -61, y: -65}
+      - {x: -63, y: -69}
+      - {x: -63, y: -93}
+      - {x: -57, y: -95}
+      - {x: -36, y: -95}
+      - {x: -33, y: -92}
+      - {x: -33, y: -73}
+      - {x: -38, y: -65}
+    - - {x: 4, y: -66}
+      - {x: 1, y: -75}
+      - {x: 1, y: -89}
+      - {x: 7, y: -95}
+      - {x: 27, y: -95}
+      - {x: 30, y: -86}
+      - {x: 30, y: -72}
+      - {x: 24, y: -66}
+    - - {x: -35, y: -33}
+      - {x: -58, y: -33}
+      - {x: -63, y: -34}
+      - {x: -63, y: -57}
+      - {x: -55, y: -63}
+      - {x: -39, y: -63}
+      - {x: -34, y: -56}
+      - {x: -33, y: -52}
+      - {x: -33, y: -39}
+    - - {x: 22, y: -33}
+      - {x: 5, y: -33}
+      - {x: 1, y: -42}
+      - {x: 1, y: -57}
+      - {x: 6, y: -63}
+      - {x: 24, y: -63}
+      - {x: 30, y: -56}
+      - {x: 31, y: -54}
+      - {x: 31, y: -41}
+    - - {x: -56, y: -1}
+      - {x: -63, y: -3}
+      - {x: -63, y: -22}
+      - {x: -58, y: -31}
+      - {x: -37, y: -31}
+      - {x: -33, y: -20}
+      - {x: -33, y: -5}
+      - {x: -34, y: -1}
+    - - {x: 22, y: -1}
+      - {x: 5, y: -1}
+      - {x: 1, y: -10}
+      - {x: 1, y: -25}
+      - {x: 6, y: -31}
+      - {x: 24, y: -31}
+      - {x: 30, y: -24}
+      - {x: 31, y: -22}
+      - {x: 31, y: -9}
+    - - {x: -125, y: -18}
+      - {x: -125, y: -15}
+      - {x: -128, y: -14}
+      - {x: -128, y: -19}
+    - - {x: -25, y: 126}
+      - {x: -25, y: 2}
+      - {x: -24, y: -2}
+      - {x: -8, y: -2}
+      - {x: -7, y: -1}
+      - {x: -7, y: 126}
+    - - {x: -128, y: 128}
+      - {x: -128, y: 112.58049}
+      - {x: -111.885956, y: 112.81659}
+      - {x: -110.66467, y: 113.74863}
+      - {x: -110, y: 128}
+    - - {x: -71, y: 31}
+      - {x: -91, y: 31}
+      - {x: -95, y: 25}
+      - {x: -95, y: 11}
+      - {x: -89, y: 1}
+      - {x: -75, y: 1}
+      - {x: -71, y: 2}
+      - {x: -65, y: 11}
+      - {x: -65, y: 18}
+      - {x: -67, y: 24}
+    - - {x: -53, y: 31}
+      - {x: -56, y: 30}
+      - {x: -63, y: 20}
+      - {x: -63, y: 13}
+      - {x: -62, y: 8}
+      - {x: -55, y: 1}
+      - {x: -43, y: 1}
+      - {x: -33, y: 5}
+      - {x: -33, y: 26}
+      - {x: -42, y: 31}
+    - - {x: 5, y: 31}
+      - {x: 1, y: 22}
+      - {x: 1, y: 7}
+      - {x: 6, y: 1}
+      - {x: 24, y: 1}
+      - {x: 31, y: 6}
+      - {x: 31, y: 26}
+      - {x: 22, y: 31}
+    - - {x: 44, y: 31}
+      - {x: 33, y: 25}
+      - {x: 33, y: 10}
+      - {x: 38, y: 1}
+      - {x: 56, y: 1}
+      - {x: 63, y: 6}
+      - {x: 63, y: 27}
+      - {x: 57, y: 31}
+    - - {x: 83, y: 31}
+      - {x: 81, y: 30}
+      - {x: 81, y: 16}
+      - {x: 95, y: 2}
+      - {x: 108, y: 2}
+      - {x: 110, y: 3}
+      - {x: 110, y: 17}
+      - {x: 96, y: 31}
+    - - {x: -71, y: 63}
+      - {x: -91, y: 63}
+      - {x: -95, y: 57}
+      - {x: -95, y: 43}
+      - {x: -89, y: 33}
+      - {x: -75, y: 33}
+      - {x: -71, y: 34}
+      - {x: -65, y: 43}
+      - {x: -65, y: 50}
+      - {x: -67, y: 56}
+    - - {x: -55, y: 63}
+      - {x: -63, y: 58}
+      - {x: -63, y: 39}
+      - {x: -59, y: 33}
+      - {x: -39, y: 33}
+      - {x: -33, y: 37}
+      - {x: -33, y: 59}
+      - {x: -38, y: 63}
+    - - {x: 9, y: 63}
+      - {x: 1, y: 57}
+      - {x: 1, y: 41}
+      - {x: 9, y: 33}
+      - {x: 21, y: 33}
+      - {x: 31, y: 37}
+      - {x: 31, y: 59}
+      - {x: 27, y: 63}
+    - - {x: 41, y: 63}
+      - {x: 33, y: 57}
+      - {x: 33, y: 41}
+      - {x: 41, y: 33}
+      - {x: 53, y: 33}
+      - {x: 63, y: 37}
+      - {x: 63, y: 59}
+      - {x: 59, y: 63}
+    - - {x: 78, y: 43}
+      - {x: 80, y: 39}
+      - {x: 81, y: 38}
+      - {x: 111, y: 38}
+      - {x: 114, y: 39}
+      - {x: 114, y: 53}
+      - {x: 112, y: 57}
+      - {x: 111, y: 58}
+      - {x: 82, y: 58}
+      - {x: 78, y: 57}
+    - - {x: 68, y: 81}
+      - {x: 63, y: 79}
+      - {x: 63, y: 67}
+      - {x: 66, y: 63}
+      - {x: 76, y: 63}
+      - {x: 81, y: 66}
+      - {x: 81, y: 77}
+      - {x: 78, y: 81}
+    - - {x: -71, y: 95}
+      - {x: -91, y: 95}
+      - {x: -95, y: 89}
+      - {x: -95, y: 75}
+      - {x: -89, y: 65}
+      - {x: -75, y: 65}
+      - {x: -71, y: 66}
+      - {x: -65, y: 75}
+      - {x: -65, y: 82}
+      - {x: -67, y: 88}
+    - - {x: -55, y: 95}
+      - {x: -63, y: 90}
+      - {x: -63, y: 71}
+      - {x: -59, y: 65}
+      - {x: -39, y: 65}
+      - {x: -33, y: 69}
+      - {x: -33, y: 91}
+      - {x: -38, y: 95}
+    - - {x: 9, y: 95}
+      - {x: 1, y: 89}
+      - {x: 1, y: 73}
+      - {x: 9, y: 65}
+      - {x: 21, y: 65}
+      - {x: 31, y: 69}
+      - {x: 31, y: 91}
+      - {x: 27, y: 95}
+    - - {x: 41, y: 95}
+      - {x: 33, y: 89}
+      - {x: 33, y: 73}
+      - {x: 41, y: 65}
+      - {x: 53, y: 65}
+      - {x: 63, y: 69}
+      - {x: 63, y: 91}
+      - {x: 59, y: 95}
+    - - {x: 95, y: 94}
+      - {x: 81, y: 80}
+      - {x: 81, y: 67}
+      - {x: 82, y: 65}
+      - {x: 96, y: 65}
+      - {x: 110, y: 79}
+      - {x: 110, y: 92}
+      - {x: 109, y: 94}
+    - - {x: 69, y: 95}
+      - {x: 65, y: 91}
+      - {x: 65, y: 85}
+      - {x: 69, y: 81}
+      - {x: 75, y: 81}
+      - {x: 79, y: 85}
+      - {x: 79, y: 91}
+      - {x: 75, y: 95}
+    - - {x: 104, y: 128}
+      - {x: 89, y: 128}
+      - {x: 87, y: 127}
+      - {x: 86, y: 126}
+      - {x: 86, y: 103}
+      - {x: 89, y: 94}
+      - {x: 100, y: 94}
+      - {x: 106, y: 99}
+      - {x: 106, y: 123}
+      - {x: 105, y: 127}
+    - - {x: -71, y: 127}
+      - {x: -91, y: 127}
+      - {x: -95, y: 121}
+      - {x: -95, y: 107}
+      - {x: -89, y: 97}
+      - {x: -75, y: 97}
+      - {x: -71, y: 98}
+      - {x: -65, y: 107}
+      - {x: -65, y: 114}
+      - {x: -67, y: 120}
+    - - {x: -43, y: 127}
+      - {x: -52, y: 127}
+      - {x: -56, y: 126}
+      - {x: -63, y: 121}
+      - {x: -63, y: 106}
+      - {x: -57, y: 97}
+      - {x: -41, y: 97}
+      - {x: -33, y: 107}
+      - {x: -33, y: 118}
+      - {x: -34, y: 121}
+    - - {x: 9, y: 127}
+      - {x: 1, y: 121}
+      - {x: 1, y: 105}
+      - {x: 9, y: 97}
+      - {x: 21, y: 97}
+      - {x: 31, y: 101}
+      - {x: 31, y: 123}
+      - {x: 27, y: 127}
+    - - {x: 41, y: 127}
+      - {x: 33, y: 121}
+      - {x: 33, y: 105}
+      - {x: 41, y: 97}
+      - {x: 53, y: 97}
+      - {x: 63, y: 101}
+      - {x: 63, y: 123}
+      - {x: 59, y: 127}
+    - - {x: 69, y: 111}
+      - {x: 65, y: 107}
+      - {x: 65, y: 101}
+      - {x: 69, y: 97}
+      - {x: 75, y: 97}
+      - {x: 79, y: 101}
+      - {x: 79, y: 107}
+      - {x: 75, y: 111}
+    - - {x: 69, y: 127}
+      - {x: 65, y: 123}
+      - {x: 65, y: 117}
+      - {x: 69, y: 113}
+      - {x: 75, y: 113}
+      - {x: 79, y: 117}
+      - {x: 79, y: 123}
+      - {x: 75, y: 127}
+    - - {x: -128, y: 96.45451}
+      - {x: -127.96087, y: 111.43518}
+      - {x: -112.10329, y: 111.21596}
+      - {x: -111.95714, y: 96.38144}
+    - - {x: -127.95688, y: 79.92462}
+      - {x: -127.95688, y: 95.43855}
+      - {x: -111.58107, y: 95.43855}
+      - {x: -111.58107, y: 79.92462}
+    - - {x: -127.91719, y: 64.45793}
+      - {x: -127.91719, y: 79.401474}
+      - {x: -112.28961, y: 79.401474}
+      - {x: -112.28961, y: 64.45793}
+    - - {x: -128, y: 31.677505}
+      - {x: -128, y: 64.0797}
+      - {x: -111.5383, y: 64.28917}
+      - {x: -111.5383, y: 31.677505}
+    - - {x: -126.65097, y: 1.54599}
+      - {x: -126.65097, y: 30.270966}
+      - {x: -112.83705, y: 30.270966}
+      - {x: -112.83705, y: 1.54599}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
